@@ -20,4 +20,5 @@ import org.springframework.scheduling.annotation.EnableScheduling;
         BookConfiguration.class,
         DomainEventsConfig.class})
 public class LendingConfig {
+    //@@@
 }

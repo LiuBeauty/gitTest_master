@@ -8,6 +8,21 @@ public class Version {
     public void ForTest(){
         System.out.println("123");
     }
+    public void ForTest2(){
+        System.out.println("467");
+    }
+    public void ForTest2(){
+        System.out.println("467");
+    }
+    public void ForTest2(){
+        System.out.println("467");
+    }
+    public void ForTest2(){
+        System.out.println("467");
+    }
+
+
+
 
 
     public static Version zero() {
